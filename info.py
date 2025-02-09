@@ -44,8 +44,8 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') #Support group link 
 #---------------------------------------------------------------
 IS_VERIFY = 
 #---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "")
-VERIFY_IMG = environ.get("VERIFY_IMG", "")
+TUTORIAL = environ.get("TUTORIAL", "False")
+VERIFY_IMG = environ.get("VERIFY_IMG", "False")
 SHORTENER_API = environ.get("SHORTENER_API", "")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", '')
 SHORTENER_API2 = environ.get("SHORTENER_API2", "")
