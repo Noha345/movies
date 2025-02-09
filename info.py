@@ -72,7 +72,7 @@ START_IMG = (environ.get('START_IMG', 'https://graph.org/file/4e17764f73661fe096
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/PSI.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', '')).split()
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', ''))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION',https://t.me/ChillOutOTT ''))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
